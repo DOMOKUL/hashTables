@@ -396,7 +396,7 @@ public class Main {
 
         hashTable.insert(70);
         hashTable.print();
-        System.out.println();
+        System.out.println("===============================================================================");
 
         System.out.println("""
                 List_hash_2.
@@ -505,7 +505,7 @@ public class Main {
 
         hashTable.remove(7);
         hashTable.print();
-        System.out.println();
+        System.out.println("===============================================================================");
 
         System.out.println("""
                 List_hash_3.
@@ -655,7 +655,7 @@ public class Main {
 
         hashTable.remove(8);
         hashTable.print();
-        System.out.println();
+        System.out.println("===============================================================================");
     }
 
 }
